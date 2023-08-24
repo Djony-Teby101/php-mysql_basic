@@ -1,2 +1,5 @@
-# php-mysql_basic
-how work php with mysql practice
+CRUD:
+ -Creer
+ -Lire
+ -editer
+ -supprimer
